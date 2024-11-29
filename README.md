@@ -13,7 +13,7 @@ This project is about understanding how the weather affects my daily health and 
 
 - **Sleep Data:** My daily sleep duration, collected from the iPhone Health app. The data starts from **July 1st**.
 - **Activity Data:** Step counts and calories burned, also from the iPhone Health app.
-- **Weather Data:** Daily weather information, such as temperature, rain, and wind speed, retrieved using the **Open-Meteo API**.
+- **Weather Data:** Daily weather information, such as temperature, rain, and wind speed, retrieved using the **Visual Crossing Weather Dataset**.
 
 ---
 
