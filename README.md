@@ -51,6 +51,7 @@ By exploring these questions, I hope to learn more about my personal habits and 
 6. **Machine Learning**
 
    -Research machine learning methods which fits best in my case.
+
 ---
 
 ## Motivation
@@ -62,8 +63,8 @@ I often wonder how the weather affects my health. For example, do I walk less wh
 ## Data Source
 
 1. **iPhone Health App**:
-   - My sleep and walking data were exported directly from the app. However iphone provides a complicated xml file so it has cleaned by hand and converted to csv.
 
+   - My sleep and walking data were exported directly from the app. However iphone provides a complicated xml file so it has cleaned by hand and converted to csv.
 2. **Visual Crossing Weather Data**:
 
    - Historical weather data (temperature, rain, and wind) is free and easy to access.
@@ -89,3 +90,34 @@ I often wonder how the weather affects my health. For example, do I walk less wh
 - `visuals/`: Includes all the graphs created during the analysis.
 - `analyses/`: Includes all the analyses notebooks
 - `README.md`
+
+# Results
+
+Based on my data and visualizations, I observed the following insights about how weather conditions affect my walking and sleeping patterns:
+
+1. **Step Count and Temperature**
+
+   - On days with higher temperatures, my step count tends to increase. This suggests that I am more active and walk more when the weather is warm.
+   - However, extremely high temperatures seem to slightly reduce my walking, as seen in a few data points.
+2. **Step Count and Humidity**
+
+   - Days with moderate humidity levels correlate with more steps. Extremely high or low humidity does not seem to encourage much walking.
+   - My data shows that I avoid walking a lot on very humid days.
+3. **Step Count and Wind Speed**
+
+   - Higher wind speeds are associated with lower step counts in my data. It seems I prefer to walk less on windy days, likely due to discomfort caused by the weather.
+4. **Sleep Duration and Temperature**
+
+   - My sleep duration remains fairly consistent between 7–9 hours, regardless of temperature. However, I notice slightly longer sleep durations on days with cooler temperatures.
+   - Extremely warm days (above 30°C) do not seem to affect my sleep negatively, but there is no significant improvement either.
+5. **Sleep Duration and Humidity**
+
+   - On days with higher humidity, I tend to sleep slightly less. This might be due to discomfort caused by the humid environment.
+   - Moderate humidity seems to align with my optimal sleep duration.
+6. **Sleep Duration and Wind Speed**
+
+   - Wind speed does not show a strong impact on my sleep duration. Whether the day is calm or windy, my sleep remains consistent.
+7. **Combined Effects**
+
+   - Warmer temperatures encourage me to walk more, and walking more during the day might slightly increase my sleep duration. However, the effect is not very strong.
+   - High humidity appears to reduce both my step count and sleep duration, indicating that I am less active and less comfortable on humid days.
