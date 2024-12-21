@@ -138,8 +138,6 @@ MAE: 1.60, RMSE: 2.12
 
 ---
 
-
-
 # **Future Work**
 
 **Data Expansion:**
@@ -157,5 +155,3 @@ MAE: 1.60, RMSE: 2.12
 **Dynamic Weather Analysis:**
 
     Incorporate intraday weather variations instead of relying solely on daily averages.
-
-<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><hr data-block="0"/></pre>
