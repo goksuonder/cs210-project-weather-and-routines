@@ -121,3 +121,37 @@ Based on my data and visualizations, I observed the following insights about how
 
    - Warmer temperatures encourage me to walk more, and walking more during the day might slightly increase my sleep duration. However, the effect is not very strong.
    - High humidity appears to reduce both my step count and sleep duration, indicating that I am less active and less comfortable on humid days.
+
+# **Model Performance**
+
+#### Random Forest
+
+MAE: 1.68, RMSE: 2.10
+
+#### **Gradient Boosting:**
+
+MAE: 1.60, RMSE: 2.12
+
+*Gradient Boosting achieved slightly better accuracy, suggesting it captured patterns more effectively.*
+
+## **Future Work**
+
+**
+    1.**	**Data Expansion:**
+
+    Collect data over a longer period and include more comprehensive weather variables.
+
+**
+    2.**	**Feature Enhancement:**
+
+    Add lifestyle metrics like diet, stress levels, or exercise intensity.
+
+**
+    3.**	**Advanced Modeling:**
+
+    Explore neural networks or other advanced machine learning techniques.
+
+**
+    4.**	**Dynamic Weather Analysis:**
+
+    Incorporate intraday weather variations instead of relying solely on daily averages.
