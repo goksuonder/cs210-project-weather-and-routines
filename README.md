@@ -136,22 +136,18 @@ MAE: 1.60, RMSE: 2.12
 
 ## **Future Work**
 
-**
-    Data Expansion:**
+**Data Expansion:**
 
     Collect data over a longer period and include more comprehensive weather variables.
 
-**
-    Feature Enhancement:**
+**Feature Enhancement:**
 
     Add lifestyle metrics like diet, stress levels, or exercise intensity.
 
-**
-    Advanced Modeling:**
+**Advanced Modeling:**
 
     Explore neural networks or other advanced machine learning techniques.
 
-**
-    Dynamic Weather Analysis:**
+**Dynamic Weather Analysis:**
 
     Incorporate intraday weather variations instead of relying solely on daily averages.
