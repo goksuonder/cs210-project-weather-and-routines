@@ -91,6 +91,8 @@ I often wonder how the weather affects my health. For example, do I walk less wh
 - `analyses/`: Includes all the analyses notebooks
 - `README.md`
 
+---
+
 # Results
 
 Based on my data and visualizations, I observed the following insights about how weather conditions affect my walking and sleeping patterns:
@@ -134,7 +136,11 @@ MAE: 1.60, RMSE: 2.12
 
 *Gradient Boosting achieved slightly better accuracy, suggesting it captured patterns more effectively.*
 
-## **Future Work**
+---
+
+
+
+# **Future Work**
 
 **Data Expansion:**
 
@@ -151,3 +157,5 @@ MAE: 1.60, RMSE: 2.12
 **Dynamic Weather Analysis:**
 
     Incorporate intraday weather variations instead of relying solely on daily averages.
+
+<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><hr data-block="0"/></pre>
